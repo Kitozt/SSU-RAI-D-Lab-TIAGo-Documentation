@@ -1,2 +1,4 @@
 # SANIR2RS
 Socially Aware Navigation Implementation in ROS 2 and Robot Simulations
+
+This project explores the development of a robot's capability to navigate through university environments, mainly hallways and classrooms, in a socially aware manner. The robot is trained to move efficiently through spaces while detecting and avoiding pedestrians in real time. Additionally, it will identify unoccupied areas within classrooms and move to those areas, demonstrating context-aware decision-making. By combining navigation algorithms with environmental perception, the system aims to simulate realistic human-like movement patterns in shared indoor spaces. This will highlight the challenges of dynamic obstacle avoidance, spatial awareness, and adaptive behavior in semi-structured environments like universities. This project contributes to ongoing research in robotics by emphasizing safe and socially compliant navigation in everyday human settings.
