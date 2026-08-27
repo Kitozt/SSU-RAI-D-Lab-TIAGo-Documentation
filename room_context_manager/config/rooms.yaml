@@ -1,0 +1,24 @@
+rooms:
+
+  0:
+    name: hallway
+    max_speed: 0.30
+    navigation_allowed: true
+    arm_motion_allowed: false
+
+  1:
+    name: lab
+    max_speed: 0.15
+    navigation_allowed: true
+    arm_motion_allowed: false
+
+  2:
+    name: class_lab
+    max_speed: 0.20
+    navigation_allowed: true
+    arm_motion_allowed: true
+  3:
+    name: restricted_room
+    max_speed: 0.10
+    navigation_allowed: false
+    arm_motion_allowed: false
